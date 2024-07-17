@@ -1,4 +1,3 @@
-```markdown
 # MERN To-Do App
 
 A simple To-Do application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
